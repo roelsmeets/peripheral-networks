@@ -1,6 +1,6 @@
 # peripheral-networks
 
-Replication data for article 'Peripheral Networks: Canon-Formation in the Nineteenth-Century Reception of Regionalist Writers' (under revieww), which is part of the  NWO-funded research project 'Redefining the Region: The Transnational Dimensions of Local Colour' (https://www.nwo.nl/en/projects/vic181026). 
+Replication data for article 'Peripheral Networks: Canon-Formation in the Nineteenth-Century Reception of Regionalist Writers' (under review), which is part of the  NWO-funded research project 'Redefining the Region: The Transnational Dimensions of Local Colour' (https://www.nwo.nl/en/projects/vic181026). 
 
 This freely accessible database is authored by Anneloek Scholten, Roel Smeets, Ninge Engelen, and Nils Lommerde. It consists of three interlinked files:
 
