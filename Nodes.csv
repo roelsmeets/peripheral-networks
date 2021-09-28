@@ -1,0 +1,346 @@
+ID,Label,Gender,Origin
+1,J.J. Cremer,M,Dutch
+2,Marie Gijsen,F,Dutch
+3,Israël Querido,M,Dutch
+4,L.H.J. Lamberts Hurrelbrinck,M,Dutch
+5,Marie Koenen,F,Dutch
+6,Wally Moes,M,Dutch
+7,Guy de Maupassant,M,French
+8,Frans Coenen,M,Dutch
+9,Gustave Flaubert,M,French
+10,Ina Boudier-Bakker,F,Dutch
+11,Fernan Caballero,M,Spanish
+12,Pardo Bazan,F,Spanish
+13,Perez Galdós,M,Spanish
+14,Grazia Deledda,F,Italian
+15,Clara Viebig,F,German
+16,Bernard Hendricus Stephanus van Meurs (S.J.),M,Dutch
+17,Stijn Streuvels,M,Belgian
+18,Felix Timmermans,M,Belgian
+19,René de Clercq,M,Belgian
+20,Richard de Cneudt,M,Belgian
+21,Edward Vermeulen,M,Belgian
+22,Felix Rutten,M,Dutch
+23,Jan Bogaerts,M,Dutch
+24,Emiel de Grave,M,Belgian
+25,Idsardi,M,Dutch
+26,Augusta de Wit,F,Dutch
+27,Bas Veth,M,Dutch
+28,Joseph Chailley-Bert,M,French
+29,Hélène Lapidoth Swarth,F,Dutch
+30,Johanna van Woude,F,Dutch
+31,Cornelie Huygens,F,Dutch
+32,Anna de Savornin Lohman,F,Dutch
+33,Jeanne Reyneke Van Stuwe,F,Dutch
+34,Multatuli,M,Dutch
+35,Louis Couperus,M,Dutch
+36,F. de Sinclair,M ,Dutch 
+37,Walter Scott,M,Scottish
+38,Henriette Roland Holst,F,Dutch
+39,Elisabeth Barrett Browning,F,English
+40,George Sand,F,French
+41,Hendrik Conscience,M,Belgian
+42,Berthold Auerbach,M,German
+43,Jacob van Lennep,M,Dutch
+44,Hendrik Jan Schimmel,M,Dutch
+45,A.L.G. Bosboom-Toussaint,F,Dutch
+46,A.J. de Bull,M,Dutch
+47,Émile Souvestre,M,French
+48,Charles Dickens,M,English
+49,Miguel de Cervantes,M,Spanish
+50,Laurence Sterne,M,Irish
+51,Gerbrand Bredero,M,Dutch
+52,Constantijn Huygens,M,Dutch
+53,William Makepeace Thackeray,M,English
+54,Jean de La Fontaine,M,French
+55,Molière,M,French
+56,Voltaire,M,French
+57,Erckmann-Chatrian,M,French
+58,Edmond Gondinet,M,French
+59,Honoré de Balzac,M,French
+60,Conrad Busken Huet,M,Dutch
+61,Gerard Keller,M,Dutch
+62,Johann Wolfgang von Goethe,M,German
+63,Charles Reade,M,English
+64,Victor Hugo,M,French
+65,Cornelis van Koetsveld,M,Dutch
+66,Nicolaas Beets,M,Dutch
+67,Jacob Vosmaer,M,Dutch
+68,J.H. Voss,M,German
+69,Johann Heinrich Pestalozzi,M,Swiss
+70,Johann Heinrich D. Zschokke,M,German
+71,Jeremias Gotthelf,M,Swiss
+72,Cornelis van Schaick,M,Dutch
+73,Fritz Reuter,M,German
+74,Klaus Groth,M,German
+75,Moric Jokai,M,Hungarian
+76,Leopold von Sacher-Masoch,M,Austrian
+77,Ivan Turgenev,M,Russian
+78,Leo Tolstoy,M,Russian
+79,Domien Sleeckx,M,Belgian
+80,Virginie Loveling,F,Belgian
+81,Rosalie Loveling,F,Belgian
+82,Friedrich Gerstäcker,M,German
+83,Karl Postl,M,American
+84,James Fennimore Cooper,M,American
+85,Gabriel Ferry,M,French
+86,Thomas Mayne Reid,M,American
+87,Gustave Aimard,M,French
+88,Xavier Marmier,M,French
+89,Jules Verne,M,French
+90,Bret Harte,M,American
+91,Mark Twain,M,American
+92,Thineus,M,Dutch
+93,Alexandre Lodewijk Lesturgeon,M,Dutch
+94,H.E. Beunke,M,Dutch
+95,Pieter Heering,M,Dutch
+96,H. Hollidee,M,Dutch
+97,Emile Seipgens,M,Dutch
+98,Truida Kok,F,Dutch
+99,Gerard van Eckeren,M,Dutch
+100,Top Naeff,F,Dutch
+101,William Shakespeare,M,English
+102,Lodewijk van Deijssel,M,Dutch
+103,Annie Salomons,F ,Dutch
+104,Ary Prins,M,Dutch
+105,Arthur van Schendel,M,Dutch
+106,Adriaan van Oordt,M,Dutch
+107,Maurice Maeterlinck,M,Belgian
+108,Peter Benoit,M,Belgian
+109,Guido Gezelle,M ,Belgian
+110,Jan Frans Willems,M,Belgian
+111,Albrecht Rodenbach,M,Belgian
+112,Jan van Beers,M,Belgian
+113,Bjørnstjerne Bjørnson,M,Norwegian
+114,Anthony Christiaan Winand Staring,M,Dutch
+115,Willem Bilderdijk,M,Dutch
+116,Hendrik Tollens,M,Dutch
+117,Rhijnvis Feith,M,Dutch
+118,P.C. Hooft,M,Dutch
+119,Jacob Cats,M,Dutch
+120,Roemer Visscher,M,Dutch
+121,Friedrich von Schiller,M,German
+122,E.J. Potgieter,M,Dutch
+123,Alexander Pope,M,English
+124,Joost van den Vondel,M,Dutch
+125,R.C. Bakhuizen van den Brink,M,Dutch
+126,Johannes Kinker,M,Dutch
+127,Jan Frederik Helmers,M,Dutch
+128,Hendrik Herman Klijn,M,Dutch
+129,Jacob Geel,M,Dutch
+130,Jacobus Bellamy,M,Dutch
+131,Alexandre Dumas,M,French
+132,Josef Cohen,M,Dutch
+133,Adama van Scheltema,M,Dutch
+134,Heinrich Heine,M,German
+135,J.H. Speenhoff,M,Dutch
+136,Gustav Frenssen,M,German
+137,Emile Zola,M,French
+138,Robert Louis Stevenson,M,Scottish
+139,Edgar Allan Poe,M,American
+140,Théophile Gautier,M,French
+141,Wilhelm Meinhold,M,Pomeranian
+142,E.T.A. Hoffmann,M,German
+143,Novalis,M,German
+144,Johan de Meester,M,Dutch
+145,Cornelie Noordwal,M,Dutch
+146,Selma Lagerlöf,F,Swedish
+147,Hendrik Ibsen,M,Norwegian
+148,J.J.L. Ten Kate,M,Dutch
+149,J.J. van Oosterzee,M,Dutch
+150,Nathaniel Hawthorne,M,American
+151,Petrus de Grient Dreux,M,Dutch
+152,M.A. Jentink,M,Dutch
+153,Johannes van der Palm,M,Dutch
+154,Simon Vissering,M,Dutch
+155,Nicolas Boileau,M,French
+156,Ferdinand Domela Nieuwenhuis,M,Dutch
+157,Vader Loosjes,M,Dutch
+158,Ernest-Aimé Feydeau,M,French
+159,J.P. Hasebroek,M,Dutch
+160,Hans Christian Andersen,M,Danish
+161,Jacques Offenbach,M,French
+162,Margo Scharten-Antink,F,Dutch
+163,Carel Scharten,M,Dutch
+164,Antonio Fogazzaro,M,Italian
+165,Joris-Karl Huysmans,M,French
+166,Edmond de Goncourt,M,French
+167,Jules de Goncourt,M,French
+168,Herman Teirlinck,M,Belgian
+169,Réné Bazin,M,French
+170,Herman Robbers,M,Dutch
+171,Cyriël Buysse,M,Belgian
+172,Jacobus van Looy,M,Dutch
+173,George Eliot,F,English
+174,Alexandre Weill,M,French
+175,Hieronymus van Alphen,M,Dutch
+176,Elizabeth Wetherell,F,American
+177,Rosina Bulwer Lytton,F,Irish
+178,Lode Baekelmans,M,Belgian
+179,Gerard van Hulzen,M,Dutch
+180,August Vermeylen,M,Belgian
+181,Karel van de Woestijne,M,Belgian
+182,Fyodor Dostoyevsky,M,Belgian
+183,Knut Hamsun,M,Norwegian
+184,Willem Godschalck van Focquenbroch,M,Dutch
+185,Antoine Wiertz,M,Belgian
+186,Lambrecht Lambrechts,M,Belgian
+187,Louisa Duyckers,F,Belgian
+188,Johan W. Broedelet,M,Dutch
+189,André Theuriet,M,French
+190,Gerhart Hauptmann,M,German
+191,van Deyssel,M,Dutch
+192,Eugène Laermans,M,Belgian
+193,Reimond Stijns,M,Belgian
+194,Isidoor Teirlinck,M,Belgian
+195,Camille Lemonnier,M,Belgian
+196,Anton Bergmann,M,Belgian
+197,Renier Snieders,M,Belgian
+198,Jacob Frans Johan Heremans,M,Belgian
+199,Petrus Augustus de Génestet,M,Dutch
+200,Eugenie John,F,German
+201,John Watson,M,English
+202,Peter Rosegger,M,Austrian
+203,Ludwig Anzengruber,M,Austrian
+204,Alphonse de Lamartine,M,French
+205,Karel Lodewijk Ledeganck,M,Belgian
+206,Florimond van Duyse,M,Belgian
+207,Frans de Cort,M,Belgian
+208,Johanna Courtmans-Berchmans,F,Belgian
+209,Pol de Mont,M,Belgian
+210,Maurits Sabbe,M,Belgian
+211,Prosper Mérimée,M,French
+212,Friedrich Rückert,M,German
+213,Charles Rochussen,M,Dutch
+214,Jozef Israëls,M,Dutch
+215,Charles Kingsley,M,English
+216,Samuel Richardson,M,English
+217,Henry Fielding,M,English
+218,Alexander ver Huell,M,Dutch
+219,Mark Prager Lindo,M,Dutch
+220,H.A. Banning,M,Dutch
+221,August Snieders,M,Belgian
+222,François Coppée,M,French
+223,Jan Jacob Alfried de Laet,M,Belgian
+224,Emmanuel Rosseels,M,Belgian
+225,Peter Paul Rubens,M,Belgian
+226,Rembrandt,M,Dutch
+227,David Teniers the Younger,M,Belgian
+228,Pieter de Hooch,M,Dutch
+229,Adriaen Brouwer,M,Belgian
+230,Ardriaen van Ostade,M,Dutch
+231,Gustave Courbet,M,French
+232,Johann Peter Hebel,M,German
+233,Hendrik Tillema,M,Dutch
+234,Harm Boom,M,Dutch
+235,Dubbeld Hemsing van der Scheer,M,Dutch
+236,J. van der Veen,M,Dutch
+237,Wilkie Collins,M,English
+238,Otto Ernst,M,German
+239,Gustaaf Segers,M,Belgian
+240,Jean Paul,M,German
+241,Georg Christoph Lichtenberg,M,German
+242,Matthias Claudius,M,German
+243,Siebold Ulfers,M,Dutch
+244,Charles M Sheldon,M,American
+245,Herman Heijermans,M,Dutch
+246,François Rabelais,M,French
+247,Sophocles,M,Greek
+248,Charles Baudelaire,M,French
+249,Henri Murger,M,French
+250,Job Steynen,M,Dutch
+251,Pieter van der Meer de Walcheren,M,Dutch
+252,Emmanuel de Bom,M,Belgian
+253,Justus van Maurik,M,Dutch
+254,Edmond de Bruyn,M,Belgian
+255,George Eekhoud,M,Belgian
+256,Victor de Meyere,M,Belgian
+257,Theodoor van Ryswyck,M,Belgian
+258,Eugeen Zetternam,M,Belgian
+259,Louis Gerrits,M,Belgian
+260,Peter Frans Van Kerckhoven,M,Belgian
+261,Pierre Hamp,M,French
+262,Charles de Coster,M,Belgian
+263,Joseph von Eichendorff,M,German
+264,Jan van Ruusbroec,M,Belgian
+265,Jan Luyken,M,Dutch
+266,Thomas à Kempis,M,Dutch
+267,Jacob van Maerlant,M,Belgian
+268,Beekman,M,Dutch
+267,Gottfried Keller,M,Swiss
+268,Waling Dijkstra,M,Dutch 
+268,Hendrik Zeger de Beijl,M,Dutch
+269,Hugo Verriest,M,Belgian
+270,Jan van Rijswijck,M,Belgian
+271,Anton Chekhov,M,Russian
+272,Leonid Andrejev,M,Russian
+273,Alice Muriel Williamson,F,American
+274,Charles Norris Williamson,M,English
+275,Herman Bang,M,Danish
+276,Julius de Geyter,M,Belgian
+277,Ouida,F,English
+278,Jan van Eyck,M,Belgian
+279,Rogier van der Weyden,M,Belgian
+280,Salomon van Ruysdael,M,Dutch
+281,Gustaaf Vermeersch,M,Belgian
+282,Jan Steen,M,Dutch
+283,Josephine Giese,F,Dutch
+284,Mary Augusta Ward,F,English
+285,Fredrika Bremer,F,Swedish
+286,Julius Vuylsteke,M,Belgian
+287,Arthur Cornette,M,Belgian
+288,Julius Sabbe,M,Belgian
+289,Paul Fredericq,M,Belgian
+290,Paul Heyse,M,German
+291,Isaac de Costa,M,Dutch
+292,Maurits Wagenvoort,M,Dutch
+293,Immanuel Kant,M,German
+294,Nestor de Tiere,M,Belgian
+295,Maxim Gorky,M,Russian
+296,Maria De Vleeschouwer-Verbraeken,F,Belgian
+297,Pieter Ecrevisse,M,Belgian
+298,Caesar Gezelle,M,Belgian
+299,Alfred Tennysson,M,English
+300,Désiré-Joseph Mercier,M,Belgian
+301,H.H.J. Maas,M,Dutch
+302,Jean-François Millet,M,French
+303,Attie Nieboer,M,Dutch
+304,Maria Van Ackere-Doolaeghe,F,Belgian
+305,Marie Lievevrouw-Coopman,F,Belgian
+306,Regina Cortebeeck,F,Belgian
+307,Pieter Bruegel the Elder,M,Dutch
+308,Jan Stobbaerts,M,Belgian
+309,Jacob Jordaens,M,Belgian
+310,Octave Feuillet,M,French
+311,Jules Sandeau,M,French
+312,Pierre Loti,M,French
+313,Anthony van Dyk ,M,Dutch
+314,Jean-Baptiste Corot,M,French
+315,Ernest Meissonier,M,French
+316,Dante Alighieri,M,Italian
+317,Oscar Wilde,M,Irish
+318,Marie Corelli,F,English
+319,Hall Caine,M,English
+320,Paul Bourget,M,French
+321,Gabriele D'Annunzio,M,Italian
+322,Hugo Beyerman,M,Belgian
+323,Gustaaf Vermeylen,M,Belgian
+324,Prosper van Langendonck,M,Belgian
+325,Alfred Hegenscheidt,M,Belgian
+326,Lodewijk van Deyssel,M,Dutch
+327,Émile Claus,M,Belgian
+328,Torquato Tasso,M,Italian
+329,Monticelli,M,French / Italian
+330,Emile Erens,M,Dutch
+331,Émile Verhaeren,M,Belgian
+332,Thomas Gray,M,English
+333,Anna Ekker,F,Dutch
+334,Mendelsohn,M,German
+335,George Haspels,M,Dutch
+336,Marie Marx-Koning,F,Dutch
+337,Homerus,M,Greek
+338,Auguste Villiers de l'Isle Adam,M,French
+339,Matthias Grünewald,M,German
+340,Willem die Madoc maecte,M,Belgian
+341,Hieronymus Bosch,M,Dutch
+342,Frederik van Eeden,M,Dutch
